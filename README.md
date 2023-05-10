@@ -1,8 +1,8 @@
 # Algorithm Visualizer
-A <a href="https://Abhi-245.github.io/Sorting-Algo-Visualizer">webpage</a> running a script which animates different sorting algorithms making them easier to understand.\
+A <a href="https://abhi-245.github.io/Sorting-Algo-Visualizer">webpage</a> running a script which animates different sorting algorithms making them easier to understand.\
 Best viewed on Laptops or switch to portrait mode on mobile screens.
 <br>
-<a href="https://Abhi-245.github.io/Sorting-Algo-Visualizer">Click here</a> to visit the webpage.
+<a href="https://abhi-245.github.io/Sorting-Algo-Visualizer">Click here</a> to visit the webpage.
 
 
 ## Colors during sorting
